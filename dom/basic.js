@@ -1,0 +1,7 @@
+document.getElementById('')
+document.getElementsByClassName('')
+document.querySelector('#')
+document.querySelector('.')
+document.querySelectorAll('#')
+document.querySelectorAll('.')
+document.getElementsByTagName('')
